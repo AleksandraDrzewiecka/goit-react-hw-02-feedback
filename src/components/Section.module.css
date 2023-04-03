@@ -36,7 +36,7 @@
 
 .button:hover {
     transform: scale(1.1);
-    background-color: rgba(70, 50, 26, 0.584)
+    background-color: rgba(70, 50, 26, 0.555)
 }
 
 .notify {
